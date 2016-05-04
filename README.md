@@ -1,3 +1,2 @@
 # MSI_project1
-Mariona Torrens
-Inés Sentís
+Mariona Torrens and Inés Sentís
